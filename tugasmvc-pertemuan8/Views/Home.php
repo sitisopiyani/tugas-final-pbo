@@ -27,7 +27,7 @@
         <div class="position-absolute top-50 start-50 translate-middle">
             <div class="card text-white bg-primary mb-3" style="max-width: 18rem;">
                 <div class="card-body">
-                    <h5 class="card-title">NAMA : SOPIYANI</h5>
+                    <h5 class="card-title">NAMA : SITI SOPIYANI</h5>
                     <h5 class="card-title">KELAS : XII RPL 2</h5>
                 </div>
             </div>
